@@ -1,6 +1,6 @@
 from dominio.Pelicula import Pelicula
 from servicio.catalago_peliculas import CatalogoPelículas as cp
-
+print("hola mundo")
 opcion= None
 while opcion != 4:
     try:
